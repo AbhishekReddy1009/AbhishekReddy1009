@@ -1,13 +1,18 @@
 <img src="https://cdn.videoplasty.com/animation/midnight-coding-late-night-session-lofi-animation-stock-animation-51917-1280x720.jpg" alt="Banner Image" align="center" height="500">
 <h1 align="center">Hi There!! 👋 This is Abhishek Reddy</h1>
-<h3 align="center">An enthusiastic front-end programmer</h3>
+<h3 align="center">An enthusiastic front-end programmer</h3><br>
 <img align="right" alt="Coding" height="500" width="500" src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
+- 🔭 I’m interested in **Web Development**
+
+- 🌱 I’m currently learning **MEARN, React Native**
+
+- 👯 I’m looking to collaborate on **Full Stack Web Development**
 
 - 📫 How to reach me **asurampa@gmu.edu**
 
-- 📄 Know about my experiences <a href="https://docs.google.com/document/d/18qk7xejEsZIj-1DRf1WdFmYtYz0UIO5EuMZB4N_JYMI/edit?usp=sharing" target="_blank">RESUME</a>
-- 🌱 I’m currently learning **MEARN, React Native**
+- 📄 Know about my experiences <a href="https://docs.google.com/document/d/18qk7xejEsZIj-1DRf1WdFmYtYz0UIO5EuMZB4N_JYMI/edit?usp=sharing" target="_blank"><strong>RESUME</strong></a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abhishekreddy1009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishekreddy1009" height="30" width="40" /></a>
